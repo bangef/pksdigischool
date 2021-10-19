@@ -1,2 +1,2 @@
 # pksdigischool
-Kumpulan Latihan Tugas Harian Program Full Stack Web Development Bersama PKS Digital School | 2021
+Collection of Daily Assignments for Full Stack Web Development Program with PKS Digital School | 2021
